@@ -1,0 +1,20 @@
+{
+  "name": "clamp",
+  "version": "1.0.0",
+  "description": "2D MULTIPLAYER GAME SOCKET IO",
+  "keywords": [
+    "Game",
+    "mcx"
+  ],
+  "license": "ISC",
+  "author": "Miranda Nigel",
+  "type": "commonjs",
+  "main": "mcx.js",
+  "scripts": {
+    "test": "MCX"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
